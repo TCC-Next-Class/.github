@@ -9,7 +9,7 @@ Educadores podem criar turmas virtuais, postar materiais de apoio, atribuir tare
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
-💻 Equipe:
+🤝 Equipe:
 - [Claudio Anzini Neto](github.com/ClaudioAnzini)
 - [Gabriel Campregher Mohr](https://github.com/gabrielcmohr)
 - [Matheus Henrique Calsavara](https://github.com/Math3usH)
@@ -17,13 +17,13 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 🛠️ Links do projeto:
 
-Documentação: [DOC-Next-Class](github.com/marcoandre/pi-modelo)
+📚 Documentação: [DOC-Next-Class](github.com/marcoandre/pi-modelo)
 
- Backend: [NextClass-BackEnd](https://github.com/TCC-Next-Class/NextClass-BackEnd)
+🔙 Backend: [NextClass-BackEnd](https://github.com/TCC-Next-Class/NextClass-BackEnd)
 
-  Frontend: [NextClass-FrontEnd](https://github.com/TCC-Next-Class/NextClass-FrontEnd)
+💻 Frontend: [NextClass-FrontEnd](https://github.com/TCC-Next-Class/NextClass-FrontEnd)
 
-# 1. Desenvolvimento
+# 🚀 1. Desenvolvimento
 *Sistema Educacional*
 
 **Gerenciamento Escolar e Comunicação entre Professores e Alunos**
@@ -32,7 +32,7 @@ O sistema escolhido é o **NextClass**, uma plataforma educacional voltada para 
 Através da plataforma, será possível criar turmas, postar conteúdos e tarefas, acompanhar o desempenho dos alunos, enviar notificações e mensagens, além de gerar relatórios. O objetivo é tornar o processo de ensino mais organizado, moderno e acessível.
 Escolhemos esse sistema por sua relevância no cenário atual da educação, além de permitir aplicar, na prática, conceitos importantes de desenvolvimento web, banco de dados e usabilidade.
 
-# 2. Situação Problema
+# ⚠️ 2. Situação Problema
 <div align = "center">
 
 ![Ciclo Serviço](/images/fluxoServico.png "Ciclo Serviço")
@@ -43,7 +43,7 @@ Escolhemos esse sistema por sua relevância no cenário atual da educação, al�
 - A instituição oferece o SIGAA como principal plataforma de gerenciamento acadêmico. Essa plataforma é críticada principalmente pela interface pouco intuitiva, lentidão e dificuldade de navegação. Diversos estudades reclamam de não conseguir encontrar informações básicas, além de que o SIGAA não oferece uma comunicação clara entre professor e aluno, onde fóruns e mensagens internas são pouco usados por conta da complexidade e visual antigo, fazendo muitos professores escolherem outras plataformas e apenas utilizando o SIGAA para a aplicação de nota.
 - O principal intuito é criar uma plataforma intuitiva,acessivel, organizada e com comunicação eficiente, sendo possivel para os *professores* criar e gerenciar turmas, publicar materiais de aula, enviar atividades com prazos definidos, corrigir tarefas, registrar notas, além de se comunicar com os alunos por meio de avisos e mensagens diretas. Já para os *alunos*, será possivel acessar sua turma, visualizar conteúdos postados, entregar atividades, ver prazos de entrega, consultar notas, além de enviar dúvidas para o professor.
   
-# 3. Descrição da proposta
+# 🔑 3. Descrição da proposta
 
 O foco do sistema é a criação e gerenciamento das disciplinas, publicação de conteúdos, entrega de tarefas, corrigir e registrar notas, além de se comunicar com alunos por meio de chat ou vídeo chamada. Tudo sendo de forma integrada e simples.
 
