@@ -10,10 +10,10 @@ Educadores podem criar turmas virtuais, postar materiais de apoio, atribuir tare
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 🤝 Equipe:
+- [Matheus Lopes Duarte](https://github.com/matheuslopesduarte)
 - [Claudio Anzini Neto](github.com/ClaudioAnzini)
 - [Gabriel Campregher Mohr](https://github.com/gabrielcmohr)
 - [Matheus Henrique Calsavara](https://github.com/Math3usH)
-- [Matheus Lopes Duarte](https://github.com/matheuslopesduarte)
 
 🛠️ Links do projeto:
 
