@@ -19,7 +19,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 📚 Documentação: [DOC-Next-Class](github.com/marcoandre/pi-modelo)
 
-🔙 Backend: [NextClass-BackEnd](https://github.com/TCC-Next-Class/NextClass-BackEnd)
+🔙 Backend: [NextClass-BackEnd](https://github.com/TCC-Next-Class/NextClass)
 
 💻 Frontend: [NextClass-FrontEnd](https://github.com/TCC-Next-Class/NextClass-FrontEnd)
 
