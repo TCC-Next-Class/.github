@@ -14,6 +14,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 - [Claudio Anzini Neto](github.com/ClaudioAnzini)
 - [Gabriel Campregher Mohr](https://github.com/gabrielcmohr)
 - [Matheus Henrique Calsavara](https://github.com/Math3usH)
+- [Juliane Blasius](https://github.com/julianeblasius)
 
 🛠️ Links do projeto:
 
