@@ -20,9 +20,9 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 📚 Documentação: [DOC-Next-Class](github.com/marcoandre/pi-modelo)
 
-🔙 Backend: [NextClass-BackEnd](https://github.com/TCC-Next-Class/NextClass) - [Publicação](https://nextclass.mlopes.xyz)
+🔙 Backend: [NextClass-BackEnd](https://github.com/TCC-Next-Class/NextClass) - [Publicação](https://nextclass-backend-ue8q.onrender.com/api/)
 
-💻 Frontend: [NextClass-FrontEnd](https://github.com/TCC-Next-Class/NextClass-FrontEnd) - [Publicação](https://nextclass.mlopes.xyz)
+💻 Frontend: [NextClass-FrontEnd](https://github.com/TCC-Next-Class/NextClass-FrontEnd) - [Publicação](https://next-class-frontend.vercel.app/)
 
 # 🚀 1. Desenvolvimento
 *Sistema Educacional*
